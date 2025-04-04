@@ -1,0 +1,6 @@
+# This file contains variables specific to the common role.
+
+# Example variables
+# package_name: "nginx"
+# service_name: "nginx"
+# config_file_path: "/etc/nginx/nginx.conf"
